@@ -1,3 +1,16 @@
+name: team_code
+description: This is for evetyone on the marketplace
+author: Dev Neupane
+branding:
+   icon: 'paperclip'
+   color: 'white'
+
+runs:
+   using: 'docker'
+   image: 'Dockerfile'
+
+
+
 # Program to check if a number is prime or not
 
 num = 407
